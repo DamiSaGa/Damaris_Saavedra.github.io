@@ -1,0 +1,13 @@
+- https://dl.acm.org/doi/10.1145/3531146.3533107#:~:text=Fairness%2C%20Accountability%2C%20and%20Transparency%20(,another%2C%20and%20publish%20their%20work.
+- https://facctconference.org/index.html
+- https://datagenero.medium.com/sesgos-en-los-algoritmos-d13898884cd9
+- https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G
+- https://algorithmicaffordances.com/category/navigating-recommendation-space/
+- https://haivis.ing.puc.cl/projects/project_6/
+- https://fair-ia.ekstrandom.net/sigir2019-slides.pdf
+- http://catarina.udlap.mx/u_dl_a/tales/documentos/msp/perez_r_d/capitulo1.pdf
+- https://e-archivo.uc3m.es/bitstream/handle/10016/29166/TFG_Luis_Buceta_Ojeda.pdf?sequence=1
+- https://www.interactions.com/conversational-ai/
+- https://www.pegasusone.com/how-chat-gpt-utilizes-the-advancements-in-artificial-intelligence-to-create-a-revolutionary-language-model/
+- https://impulsatek.com/11-sistemas-de-recomendacion-y-modelos-de-aprendizaje-basados-en-grafos/#Recomendadores_basados_en_grafos
+- 
