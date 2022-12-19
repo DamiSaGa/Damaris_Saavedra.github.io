@@ -1,6 +1,4 @@
-
-
-
+# Clase 9 - Dominios de aplicación e investigación reciente (Graph-based resys, POI, recommendation, fashion recommendation, etc)
 ### Filtrado colaborativo
 Los primeros sistemas recomendadores aparecen a comienzos de los 90’s (Tapestry, e-mail XEROX). Una de sus principales desvetajas es el problema de cold start (cuando los usuarios tienen muy poca actividad en el sistema) y new item (cuando hay productos en el catálogo que tienen muy pocas interacciones), por lo que se tiene como alternativa el filtrado basado en contenido.
 
