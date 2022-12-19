@@ -30,6 +30,7 @@ El algoritmo que empezó usando Google para ordenar los resultados de su buscado
 -	Primero asigna peso o importancia a las páginas web en función de el número de páginas web que apuntan a esta y la importancia de las páginas que apuntan a esta)
 -	Luego representa las relaciones existentes entre páginas mediante una matriz
 -	Finalmente, utiliza una propiedad de las matrices y calcula el autovector de dicha matriz cuyo autovalor es 1
+
 Este autovector es el que contienen la importancia de las páginas y determina el orden en el que se muestran en cada búsqueda.
 
 
